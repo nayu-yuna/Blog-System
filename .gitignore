@@ -1,0 +1,39 @@
+# JetBrains IDE 및 관련 파일들
+.idea/
+
+# 디폴트 무시된 파일들
+/shelf/
+workspace.xml
+
+# 에디터 기반 HTTP 클라이언트 요청
+/httpRequests/
+
+# Datasource local storage 무시된 파일들
+/dataSources/
+/dataSources.local.xml
+
+# 빌드된 파일
+/dist/
+/build/
+
+# 로그 파일
+*.log
+
+# 임시 파일들
+*.tmp
+*.swp
+
+# 노드 모듈 (npm, yarn 사용 시)
+node_modules/
+
+# 파이썬 가상 환경 (예: venv)
+venv/
+
+# macOS에서 생성되는 파일
+.DS_Store
+
+# 윈도우에서 생성되는 파일
+Thumbs.db
+
+# Gradle 관련 파일들 제외
+.gradle/
