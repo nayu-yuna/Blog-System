@@ -1,0 +1,3 @@
+spring.application.name=Blog-System
+logging.level.org.springframework.web=INFO
+logging.level.com.codeit=INFO
